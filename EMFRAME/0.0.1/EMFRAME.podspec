@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.module_name = 'EMFRAME'
 
-s.dependency 'Alamofire', '~> 4.4'
+s.dependency 'Alamofire'
 s.dependency 'SwiftyJSON'
 s.dependency 'HexColors'
 end
